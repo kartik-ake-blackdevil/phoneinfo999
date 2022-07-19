@@ -1,1 +1,1 @@
-worker: python phone_info.py
+web: gunicorn phone_info:app --log-file
