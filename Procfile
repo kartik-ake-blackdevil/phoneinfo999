@@ -1,0 +1,1 @@
+web: python phone_info.py
